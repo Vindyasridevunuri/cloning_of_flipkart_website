@@ -1,4 +1,4 @@
 # cloning_of_flipkart_website
-# 🛒 Flipkart Clone – HTML & CSS
+## 🛒 Flipkart Clone – HTML & CSS
 
-This project is a **Flipkart-inspired e-commerce landing page** built using **HTML5 and CSS3** for learning and practice purposes. It includes a navigation bar with search, login, and cart options, a fashion offer banner, a “Top Deals on Electronics” section, multiple product cards with images, prices, and add-to-cart buttons, and a footer section. The project focuses on improving front-end layout design, card-based UI, and basic styling concepts. It is a beginner-friendly project and can be opened directly in the browser by running the `index.html` file.
+A beginner-friendly **Flipkart-inspired e-commerce landing page** built using **HTML5 and CSS3**. It includes a navigation bar, product sections with cards, offers banner, and footer. This project helps practice front-end layout, styling, and card-based UI design. Open `index.html` in a browser to view the project.
